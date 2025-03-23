@@ -2,12 +2,12 @@
 {
   "modid": "hfr",
   "name": "xRadar",
-  "description": "A simple mod for all your radar needs, now with forcefields!",
+  "description": "A simple mod for all your radar needs, now with forcefields! modified by Der Kaiser for the funnies",
   "version": "1.5.x",
   "mcversion": "1.7.10",
-  "url": "",
+  "url": "https://github.com/DerKaiser2023/xRadar",
   "updateUrl": "",
-  "authorList": ["HBM"],
+  "authorList": ["HBM"], ["DerKaiser2023"]
   "credits": "CrusaderFire for testing this hot garbage",
   "logoFile": "assets/hfr/textures/logo.png",
   "screenshots": [],
